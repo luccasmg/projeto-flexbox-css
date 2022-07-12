@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante as aulas de Flexbox CSS do Bootcamp Santan
 
 ## 💻 Demonstração
 
-Você pode acessar a versão final do projeto.
+Você pode acessar a [versão final do projeto](https://luccasmg.github.io/projeto-flexbox-css/).
 
 ## 📄 Links
 
